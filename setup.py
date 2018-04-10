@@ -11,7 +11,7 @@ setup(
     author_email='targy@hmsu.org',
     url='https://github.com/hmsuorg/icestream-ui',
     packages=find_packages(),
-    test_suite='test_icestream_ui',
+    # test_suite='test_icestream_ui',
     classifiers=[
         # How mature is this project? Common values are
         #   3 - Alpha
